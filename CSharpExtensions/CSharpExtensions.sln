@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpExtensions", "CSharpExtensions\CSharpExtensions.csproj", "{EBA0A15A-0D2A-4779-A3F1-45AB6462D486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestForm", "TestForm\TestForm.csproj", "{7FBFC6EF-6A1C-4BE1-8015-0B1A2B3AF735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBA0A15A-0D2A-4779-A3F1-45AB6462D486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA0A15A-0D2A-4779-A3F1-45AB6462D486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA0A15A-0D2A-4779-A3F1-45AB6462D486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA0A15A-0D2A-4779-A3F1-45AB6462D486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FBFC6EF-6A1C-4BE1-8015-0B1A2B3AF735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBFC6EF-6A1C-4BE1-8015-0B1A2B3AF735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBFC6EF-6A1C-4BE1-8015-0B1A2B3AF735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBFC6EF-6A1C-4BE1-8015-0B1A2B3AF735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD03EF14-40F3-431C-983C-7DA6E1958964}
+	EndGlobalSection
+EndGlobal

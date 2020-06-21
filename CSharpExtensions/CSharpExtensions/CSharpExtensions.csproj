@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="File\IO.cs" />
     <Compile Include="Form\ColoredControls\ColorChanger.cs" />
     <Compile Include="Form\ColoredControls\ColoredButton.cs">
       <SubType>Component</SubType>
@@ -79,6 +80,7 @@
       <DependentUpon>ColorPalettePicker.cs</DependentUpon>
     </Compile>
     <Compile Include="JSON\Serializer.cs" />
+    <Compile Include="RunProcess\RunProcess.cs" />
     <Compile Include="String\PasswordHashing.cs" />
     <Compile Include="String\RandomString.cs" />
     <Compile Include="String\ContainsCaseInsensitive.cs" />
